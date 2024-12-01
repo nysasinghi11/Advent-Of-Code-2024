@@ -4,3 +4,5 @@ Solutions will be in
 Python
 
 Solutions will have optimal time complexity 
+
+Day1 video solution: [https://youtu.be/k8Y0BJ5x6hM](https://youtu.be/k8Y0BJ5x6hM)
